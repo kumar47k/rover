@@ -1,0 +1,7 @@
+flask
+flask-cors
+h5py
+numpy
+pillow
+gunicorn
+gdown
